@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4526
+
+Vimongous is a Vim plugin for querying a MongoDB database from inside Vim. Query results are added to a new split buffer.
+
+For a more detailed description (and the source), please visit: https://github.com/robu3/vimongous
